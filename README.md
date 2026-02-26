@@ -42,5 +42,6 @@ Python
 
 ## 📫 How to reach me
 
-![Gmail](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=daryaeireza4.rd@gamil.com)
+![Gmail](https://img.shields.io/badge/daryaeireza4.rd@gmail.com-red?style=flat&logo=gmail&logoColor=white&labelColor=red&color=red)
+![Phone](https://img.shields.io/badge/Call-09*********-blue?style=flat&logo=phone&logoColor=white)
 
