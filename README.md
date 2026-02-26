@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**rezaex/rezaex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a **Web Developer** who loves building modern web applications and turning ideas into real-world solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 I work with
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 🔭 I’m working on
+
+- 🌐 Building scalable web applications  
+- ⚡ Improving backend performance  
+- 📚 Learning new frameworks and tools  
+
+---
+
+## 🌱 I’m learning
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+---
+
+## 🧠 Skills Progress
+
+PHP  
+████████████████░░░░ 80%
+
+JavaScript  
+██████████████████░░ 90%
+
+Python  
+██████████████░░░░░░ 70%
+
+---
+
+## 📫 How to reach me
+
+![Gmail](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=daryaeireza4.rd@gamil.com)
+
